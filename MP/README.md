@@ -1,4 +1,3 @@
-**Lab02 Solution:**
 
 * Login via ssh to master
 
